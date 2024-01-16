@@ -19,17 +19,15 @@ export const Layout = () => {
       <Container
           sx={{
             position: 'relative',
-            display: 'flex',
             flexDirection: 'column',
-            minHeight: '100vh',
           }}
       >
         <Box 
           component={'main'} 
           sx={{
-            flex: 1,
             mt: 4,
             mb: 6,
+            flexGrow: 1,
           }}
         >
           <Outlet />
@@ -38,9 +36,10 @@ export const Layout = () => {
 
         <Box
         sx={{
-          position: 'sticky',
+          position: 'fixed',
           width: '100%',
-          bottom: '0',
+          bottom: 0,
+          left: 0,
           background: 'white',
           zIndex: 1000,
         }}
