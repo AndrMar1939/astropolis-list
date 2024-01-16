@@ -1,978 +1,974 @@
-{
-  "astronomicalObjects": [
-    [
-      {
-       "type": "dn",
-       "catalogCode": "B143",
-       "RA": "19 41.5",
-       "Dec": "11 00",
-       "class": 6,
-       "size": "30'",
-       "const": "Aql"
-      },
-      {
-       "type": "dn",
-       "catalogCode": "B127",
-       "RA": "19 01.6",
-       "Dec": "-05 26",
-       "class": "5 Ir",
-       "size": "20'",
-       "const": "Aql"
-      },
-      {
-       "type": "dn",
-       "catalogCode": "B29",
-       "RA": "05 06.2",
-       "Dec": "31 44",
-       "class": "6 C",
-       "size": "10'",
-       "const": "Aur"
-      },
-      {
-       "type": "dn",
-       "catalogCode": "B92",
-       "RA": "18 15.5",
-       "Dec": "-18 14",
-       "class": "6 E G",
-       "size": "15'",
-       "const": "sgr"
-      },
-      {
-       "type": "dn",
-       "catalogCode": "B132",
-       "RA": "19 04.1",
-       "Dec": "-04 28",
-       "class": "6 Ir",
-       "size": "16'",
-       "const": "Aql"
-      },
-      {
-       "type": "dn",
-       "catalogCode": "B84",
-       "RA": "17 46.5",
-       "Dec": "-20 11",
-       "class": "6 Ir",
-       "size": "30'",
-       "const": "sgr"
-      },
-      {
-       "type": "dn",
-       "catalogCode": "B27",
-       "RA": "04 54.6",
-       "Dec": "30 37",
-       "class": "6 Ir",
-       "size": "5'",
-       "const": "Aur"
-      },
-      {
-       "type": "dn",
-       "catalogCode": "B142",
-       "RA": "19 40.7",
-       "Dec": "10 57",
-       "class": "6 Ir",
-       "size": "80'",
-       "const": "Aql"
-      },
-      {
-       "type": "dn",
-       "catalogCode": "B68",
-       "RA": "17 22.6",
-       "Dec": "-23 47",
-       "class": "6 K G",
-       "size": " 4'",
-       "const": "oph"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 3344,
-       "RA": "10 43.5",
-       "Dec": "24 55",
-       "class": "(R)SAB(r)bc",
-       "size": "6.9x6.5",
-       "mag": 10,
-       "const": "LMi"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 5812,
-       "RA": "15 01.0",
-       "Dec": "-07 28",
-       "class": "E0",
-       "size": "2.4x2.2",
-       "mag": 11.2,
-       "const": "Lib"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 185,
-       "RA": "00 39.0",
-       "Dec": "48 20",
-       "class": "E3P",
-       "size": "11x9.8",
-       "mag": 9.2,
-       "const": "Cas"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 4214,
-       "RA": "12 15.6",
-       "Dec": "36 20",
-       "class": "IAB(s)m",
-       "size": "7.9x6.3",
-       "mag": 9.7,
-       "const": "CVn"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 4449,
-       "RA": "12 28.2",
-       "Dec": "44 05",
-       "class": "IBm",
-       "size": "5.1x3.7",
-       "mag": 9.4,
-       "const": "CVn"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 3115,
-       "RA": "10 05.2",
-       "Dec": "-07 44",
-       "class": "S0\"sp",
-       "size": "8.3x3.2",
-       "mag": 9.1,
-       "const": "Sex"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 2775,
-       "RA": "09 10.4",
-       "Dec": "07 03",
-       "class": "SA(r)ab",
-       "size": "4.5x3.5",
-       "mag": 10.3,
-       "const": "Cnc"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 2841,
-       "RA": "09 22.0",
-       "Dec": "50 58",
-       "class": "SA(r)b:",
-       "size": "8.1x3.8",
-       "mag": 9.3,
-       "const": "UMa"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 2683,
-       "RA": "08 52.7",
-       "Dec": "33 26",
-       "class": "SA(rs)b",
-       "size": "9.3x2.5",
-       "mag": 9.7,
-       "const": "Lyn"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 891,
-       "RA": "02 22.5",
-       "Dec": "42 21",
-       "class": "SA(s)b?sp",
-       "size": "13x2.8",
-       "mag": 10,
-       "const": "And"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 4565,
-       "RA": "12 36.4",
-       "Dec": "26 00",
-       "class": "SA(s)b?sp",
-       "size": "16x2.8",
-       "mag": 9.5,
-       "const": "Com"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 7331,
-       "RA": "22 37.1",
-       "Dec": "34 26",
-       "class": "SA(s)bc",
-       "size": "11x4.0",
-       "mag": 9.5,
-       "const": "Peg"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 5907,
-       "RA": "15 15.9",
-       "Dec": "56 19",
-       "class": "SA(s)c:sp",
-       "size": "12x1.8",
-       "mag": 10.2,
-       "const": "Dra"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 4244,
-       "RA": "12 17.5",
-       "Dec": "37 48",
-       "class": "SA(s)cd:sp",
-       "size": "16x2.5",
-       "mag": 10.1,
-       "const": "CVn"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 1622,
-       "RA": "04 36.6",
-       "Dec": "-03 11",
-       "class": "SAB(r)ab:",
-       "size": "3.9x1.1",
-       "mag": 12.3,
-       "const": "Eri"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 4725,
-       "RA": "12 50.4",
-       "Dec": "25 31",
-       "class": "SAB(r)abP",
-       "size": "11x7.9",
-       "mag": 9.2,
-       "const": "Com"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 6384,
-       "RA": "17 32.4",
-       "Dec": "07 04",
-       "class": "SAB(r)bc",
-       "size": "6.0x4.3",
-       "mag": 10.6,
-       "const": "Oph"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 2903,
-       "RA": "09 32.1",
-       "Dec": "21 30",
-       "class": "SAB(rs)bc",
-       "size": "13x6.6",
-       "mag": 8.9,
-       "const": "Leo"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 4088,
-       "RA": "12 05.6",
-       "Dec": "50 32",
-       "class": "SAB(rs)bc",
-       "size": "5.8x2.5",
-       "mag": 10.5,
-       "const": "UMa"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 6946,
-       "RA": "20 34.8",
-       "Dec": "60 09",
-       "class": "SAB(rs)cd",
-       "size": "11x9.8",
-       "mag": 8.8,
-       "const": "Cyg"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 253,
-       "RA": "00 47.6",
-       "Dec": "-25 18",
-       "class": "SAB(s)c",
-       "size": "25x7.4",
-       "mag": 7.1,
-       "const": "Scl"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 2403,
-       "RA": "07 36.9",
-       "Dec": "65 36",
-       "class": "SAB(s)cd",
-       "size": "18x11",
-       "mag": 8.4,
-       "const": "Cam"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 247,
-       "RA": "00 47.2",
-       "Dec": "-20 46",
-       "class": "SAB(s)d",
-       "size": "20x7.4",
-       "mag": 8.8,
-       "const": "Cet"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 925,
-       "RA": "02 27.3",
-       "Dec": "33 34",
-       "class": "SAB(s)d",
-       "size": "9.8x6.0",
-       "mag": 10,
-       "const": "Tri"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 672,
-       "RA": "01 47.9",
-       "Dec": "27 26",
-       "class": "SB(s)cd",
-       "size": "6.6x2.7",
-       "mag": 10.8,
-       "const": "Tri"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 4236,
-       "RA": "12 16.7",
-       "Dec": "69 28",
-       "class": "SB(s)dm",
-       "size": "19x6.9",
-       "mag": 9.6,
-       "const": "Dra"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 4631,
-       "RA": "12 42.1",
-       "Dec": "32 33",
-       "class": "SB(s)dsp",
-       "size": "15x3.3",
-       "mag": 9.2,
-       "const": "CVn"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 4656,
-       "RA": "12 43.9",
-       "Dec": "32 11",
-       "class": "SB(s)mP",
-       "size": "14x3.3",
-       "mag": 10.3,
-       "const": "CVn"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 3628,
-       "RA": "11 20.3",
-       "Dec": "13 36",
-       "class": "SbPsp",
-       "size": "15x3.6",
-       "mag": 9.4,
-       "const": "Leo"
-      },
-      {
-       "type": "eg",
-       "catalogCode": 2419,
-       "RA": "07 38.2",
-       "Dec": "38 53",
-       "size": 4.1,
-       "mag": 10.3,
-       "const": "Lyn"
-      },
-      {
-       "type": "gc",
-       "catalogCode": 6356,
-       "RA": "17 23.6",
-       "Dec": "-17 49",
-       "class": "II",
-       "size": 7.2,
-       "mag": 8.2,
-       "const": "Oph"
-      },
-      {
-       "type": "gc",
-       "catalogCode": 6712,
-       "RA": "18 53.0",
-       "Dec": "-08 42",
-       "class": "IX",
-       "size": 7.2,
-       "mag": 8.2,
-       "const": "Sct"
-      },
-      {
-       "type": "gc",
-       "catalogCode": 6229,
-       "RA": "16 47.0",
-       "Dec": "47 32",
-       "class": "VII",
-       "size": 4.5,
-       "mag": 9.4,
-       "const": "Her"
-      },
-      {
-       "type": "gc",
-       "catalogCode": 6934,
-       "RA": "20 34.1",
-       "Dec": "07 24",
-       "class": "VIII",
-       "size": 5.9,
-       "mag": 8.7,
-       "const": "Del"
-      },
-      {
-       "type": "gc",
-       "catalogCode": 6760,
-       "RA": "19 11.2",
-       "Dec": "01 02",
-       "class": "XI",
-       "size": 6.6,
-       "mag": 9.1,
-       "const": "Aql"
-      },
-      {
-       "type": "gc",
-       "catalogCode": 6553,
-       "RA": "18 09.3",
-       "Dec": "-25 54",
-       "class": "XI",
-       "size": 8.1,
-       "mag": 8.1,
-       "const": "Sgr"
-      },
-      {
-       "type": "gc",
-       "catalogCode": 5466,
-       "RA": "14 05.4",
-       "Dec": "28 32",
-       "class": "XII",
-       "size": 11,
-       "mag": 9,
-       "const": "Boo"
-      },
-      {
-       "type": "gc",
-       "catalogCode": 6544,
-       "RA": "18 07.4",
-       "Dec": "-25 00",
-       "size": 8.9,
-       "mag": 8.1,
-       "const": "Sgr"
-      },
-      {
-       "type": "gn",
-       "catalogCode": 2023,
-       "RA": "05 41.7",
-       "Dec": "-02 16",
-       "class": "ce",
-       "size": "10x8",
-       "const": "Ori"
-      },
-      {
-       "type": "gn",
-       "catalogCode": 1977,
-       "RA": "05 35.5",
-       "Dec": "-04 52",
-       "class": "ce",
-       "size": "40x25",
-       "const": "Ori"
-      },
-      {
-       "type": "gn",
-       "catalogCode": 2261,
-       "RA": "06 39.1",
-       "Dec": "08 45",
-       "class": "ce",
-       "size": "var",
-       "const": "Mon"
-      },
-      {
-       "type": "gn",
-       "catalogCode": 2359,
-       "RA": "07 17.7",
-       "Dec": "-13 14",
-       "class": "e",
-       "size": "10x5",
-       "const": "CMa"
-      },
-      {
-       "type": "gn",
-       "catalogCode": 2024,
-       "RA": "05 41.9",
-       "Dec": "-01 51",
-       "class": "e",
-       "size": "30x30",
-       "const": "Ori"
-      },
-      {
-       "type": "gn",
-       "catalogCode": 281,
-       "RA": "00 53.3",
-       "Dec": "56 37",
-       "class": "e",
-       "size": "35x30",
-       "const": "Cas"
-      },
-      {
-       "type": "gn",
-       "catalogCode": 6960,
-       "RA": "20 45.7",
-       "Dec": "30 43",
-       "class": "e(SNR)",
-       "const": "Cyg"
-      },
-      {
-       "type": "gn",
-       "catalogCode": 6992,
-       "RA": "20 56.4",
-       "Dec": "31 42",
-       "class": "e(SNR)",
-       "const": "Cyg"
-      },
-      {
-       "type": "gn",
-       "catalogCode": 1788,
-       "RA": "05 07.0",
-       "Dec": "-03 20",
-       "class": "с",
-       "size": "8x5",
-       "const": "Ori"
-      },
-      {
-       "type": "gn",
-       "catalogCode": 6995,
-       "RA": "20 57.1",
-       "Dec": "31 14",
-       "size": "12x12",
-       "const": "Cyg"
-      },
-      {
-       "type": "gn",
-       "catalogCode": 2182,
-       "RA": "06 09.5",
-       "Dec": "-06 20",
-       "size": "3x3",
-       "mag": 9,
-       "const": "Ori"
-      },
-      {
-       "type": "gn",
-       "catalogCode": "IC5067",
-       "RA": "20 47.8",
-       "Dec": "44 22",
-       "size": "85x75",
-       "mag": 7,
-       "const": "Cyg"
-      },
-      {
-       "type": "oc",
-       "catalogCode": 2158,
-       "RA": "06 07.5",
-       "Dec": "24 06",
-       "class": "11 3 r",
-       "size": 5,
-       "mag": 8.6,
-       "const": "Gem"
-      },
-      {
-       "type": "oc",
-       "catalogCode": 457,
-       "RA": "01 19.1",
-       "Dec": "58 17",
-       "class": "11 3 r",
-       "size": 12,
-       "mag": 6.4,
-       "const": "Cas"
-      },
-      {
-       "type": "oc",
-       "catalogCode": 6819,
-       "RA": "19 41.3",
-       "Dec": "40 11",
-       "class": "I 1 r",
-       "size": 10,
-       "mag": 7.3,
-       "const": "Cyg"
-      },
-      {
-       "type": "oc",
-       "catalogCode": 2420,
-       "RA": "07 38.5",
-       "Dec": "+21 34",
-       "class": "I 1r",
-       "size": 10,
-       "mag": 8.3,
-       "const": "Gem"
-      },
-      {
-       "type": "oc",
-       "catalogCode": 188,
-       "RA": "00 47.4",
-       "Dec": "85 14",
-       "class": "I 2 r",
-       "size": 14,
-       "mag": 8.1,
-       "const": "Cep"
-      },
-      {
-       "type": "oc",
-       "catalogCode": 1502,
-       "RA": "04 07.7",
-       "Dec": "62 20",
-       "class": "I 3 in",
-       "size": 8,
-       "mag": 5.7,
-       "const": "Cam"
-      },
-      {
-       "type": "oc",
-       "catalogCode": 2281,
-       "RA": "06 49.3",
-       "Dec": "41 04",
-       "class": "I 3 m",
-       "size": 15,
-       "mag": 5.4,
-       "const": "Aur"
-      },
-      {
-       "type": "oc",
-       "catalogCode": 2360,
-       "RA": "07 17.8",
-       "Dec": "-15 37",
-       "class": "I 3 r",
-       "size": 13,
-       "mag": 7.2,
-       "const": "CMa"
-      },
-      {
-       "type": "oc",
-       "catalogCode": 2301,
-       "RA": "06 51.8",
-       "Dec": "00 28",
-       "class": "I 3 r",
-       "size": 15,
-       "mag": 6,
-       "const": "Mon"
-      },
-      {
-       "type": "oc",
-       "catalogCode": 6939,
-       "RA": "20 31.4",
-       "Dec": "60 40",
-       "class": "II 1 r",
-       "size": 8,
-       "mag": 7.8,
-       "const": "Cep"
-      },
-      {
-       "type": "oc",
-       "catalogCode": 1528,
-       "RA": "04 15.4",
-       "Dec": "51 14",
-       "class": "II 2 m",
-       "size": 18,
-       "mag": 6.4,
-       "const": "Per"
-      },
-      {
-       "type": "oc",
-       "catalogCode": 7789,
-       "RA": "23 57.0",
-       "Dec": "56 44",
-       "class": "II 2 г",
-       "size": 16,
-       "mag": 6.7,
-       "const": "Cas"
-      },
-      {
-       "type": "oc",
-       "catalogCode": 663,
-       "RA": "01 46.0",
-       "Dec": "61 15",
-       "class": "II 3 r",
-       "size": 8,
-       "mag": 7.1,
-       "const": "Cas"
-      },
-      {
-       "type": "oc",
-       "catalogCode": 752,
-       "RA": "01 57.8",
-       "Dec": "37 41",
-       "class": "III 1 m",
-       "size": 45,
-       "mag": 5.7,
-       "const": "And"
-      },
-      {
-       "type": "oc",
-       "catalogCode": 1664,
-       "RA": "04 51.1",
-       "Dec": "43 42",
-       "class": "III 1 p",
-       "size": 13,
-       "mag": 7.6,
-       "const": "Aur"
-      },
-      {
-       "type": "oc",
-       "catalogCode": 6940,
-       "RA": "20 34.6",
-       "Dec": "28 18",
-       "class": "III 2 m",
-       "size": 25,
-       "mag": 6.3,
-       "const": "Vul"
-      },
-      {
-       "type": "oc",
-       "catalogCode": 2539,
-       "RA": "08 10.7",
-       "Dec": "-12 50",
-       "class": "III 2m",
-       "size": 15,
-       "mag": 6.5,
-       "const": "Pup"
-      },
-      {
-       "type": "oc",
-       "catalogCode": 2169,
-       "RA": "06 08.4",
-       "Dec": "13 57",
-       "class": "III 3 m",
-       "size": 6,
-       "mag": 5.9,
-       "const": "Ori"
-      },
-      {
-       "type": "oc",
-       "catalogCode": "Cr 399",
-       "RA": "19 25.4",
-       "Dec": "20 11",
-       "class": "III 3m",
-       "size": 60,
-       "mag": 3.6,
-       "const": "Vul"
-      },
-      {
-       "type": "oc",
-       "catalogCode": 1817,
-       "RA": "05 12.1",
-       "Dec": "16 42",
-       "class": "IV 2 r",
-       "size": 16,
-       "mag": 7.7,
-       "const": "Tau"
-      },
-      {
-       "type": "pn",
-       "catalogCode": 1501,
-       "RA": "04 07.0",
-       "Dec": "60 55",
-       "class": 3,
-       "size": "56\"x48\"",
-       "mag": 11.5,
-       "const": "Cam"
-      },
-      {
-       "type": "pn",
-       "catalogCode": 7008,
-       "RA": "21 00.6",
-       "Dec": "54 33",
-       "class": 3,
-       "size": "98\"x75\"",
-       "mag": 10.7,
-       "const": "Cyg"
-      },
-      {
-       "type": "pn",
-       "catalogCode": 7293,
-       "RA": "22 29.6",
-       "Dec": "-20 51",
-       "class": 4,
-       "size": "12x10",
-       "mag": 7.3,
-       "const": "Aqr"
-      },
-      {
-       "type": "pn",
-       "catalogCode": "PK64+5.1",
-       "RA": "19 34.8",
-       "Dec": "30 31",
-       "class": 4,
-       "size": "13\"x10\"",
-       "mag": 11.4,
-       "const": "Cyg"
-      },
-      {
-       "type": "pn",
-       "catalogCode": "I 418",
-       "RA": "05 27.5",
-       "Dec": "-12 42",
-       "class": 4,
-       "size": "14\"x11\"",
-       "mag": 9.3,
-       "const": "Lep"
-      },
-      {
-       "type": "pn",
-       "catalogCode": 6818,
-       "RA": "19 44.0",
-       "Dec": "-14 09",
-       "class": 4,
-       "size": "22\"x15\"",
-       "mag": 9.3,
-       "const": "Sgr"
-      },
-      {
-       "type": "pn",
-       "catalogCode": 2438,
-       "RA": "07 41.8",
-       "Dec": "-14 44",
-       "class": 4,
-       "size": "73\"x68\"",
-       "mag": 11,
-       "const": "Pup"
-      },
-      {
-       "type": "pn",
-       "catalogCode": "I3568",
-       "RA": "12 32.9",
-       "Dec": "82 33",
-       "class": "2(2a)",
-       "size": "18\"x18\"",
-       "mag": 10.6,
-       "const": "Cam"
-      },
-      {
-       "type": "pn",
-       "catalogCode": 1514,
-       "RA": "04 09.2",
-       "Dec": "30 47",
-       "class": "3(2)",
-       "size": "2.3x2.0",
-       "mag": 10.9,
-       "const": "Tau"
-      },
-      {
-       "type": "pn",
-       "catalogCode": 6543,
-       "RA": "17 58.6",
-       "Dec": "66 38",
-       "class": "3a",
-       "size": "23\"x17\"",
-       "mag": 8.1,
-       "const": "Dra"
-      },
-      {
-       "type": "pn",
-       "catalogCode": 6826,
-       "RA": "19 44.8",
-       "Dec": "50 31",
-       "class": "3a",
-       "size": "27\"x24\"",
-       "mag": 8.8,
-       "const": "Cyg"
-      },
-      {
-       "type": "pn",
-       "catalogCode": "2371-2",
-       "RA": "07 25.5",
-       "Dec": "29 29",
-       "class": "3a+6",
-       "size": "2.2x0.9",
-       "mag": 11.3,
-       "const": "Gem"
-      },
-      {
-       "type": "pn",
-       "catalogCode": 6781,
-       "RA": "19 18.4",
-       "Dec": "06 33",
-       "class": "3b",
-       "size": "1.9x1.8",
-       "mag": 11.4,
-       "const": "Aql"
-      },
-      {
-       "type": "pn",
-       "catalogCode": 40,
-       "RA": "00 13.0",
-       "Dec": "72 32",
-       "class": "3b",
-       "size": "38\"x35\"",
-       "mag": 12.4,
-       "const": "Cep"
-      },
-      {
-       "type": "pn",
-       "catalogCode": 246,
-       "RA": "00 47.0",
-       "Dec": "-11 53",
-       "class": "3b",
-       "size": "4.6x4.1",
-       "mag": 10.9,
-       "const": "Cet"
-      },
-      {
-       "type": "pn",
-       "catalogCode": 2392,
-       "RA": "07 29.2",
-       "Dec": "20 55",
-       "class": "3b",
-       "size": "47\"x43\"",
-       "mag": 9.2,
-       "const": "Gem"
-      },
-      {
-       "type": "pn",
-       "catalogCode": 1535,
-       "RA": "04 14.3",
-       "Dec": "-12 45",
-       "class": "4(2c)",
-       "size": "48\"x42\"",
-       "mag": 9.6,
-       "const": "Eri"
-      },
-      {
-       "type": "pn",
-       "catalogCode": 3242,
-       "RA": "10 24.8",
-       "Dec": "-18 38",
-       "class": "4(3b)",
-       "size": "45\"x36\"",
-       "mag": 7.8,
-       "const": "Hya"
-      },
-      {
-       "type": "pn",
-       "catalogCode": 7009,
-       "RA": "21 04.2",
-       "Dec": "-11 22",
-       "class": "4(6)",
-       "size": "44\"x23\"",
-       "mag": 8,
-       "const": "Aqr"
-      },
-      {
-       "type": "pn",
-       "  ode": 7026,
-       "RA": "21 06.3",
-       "Dec": "47 51",
-       "size": "27\"x11\"",
-       "mag": 10.9,
-       "const": "Cyg"
-      },
-      {
-       "type": "pn",
-       "catalogCode": 7662,
-       "RA": "23 25.9",
-       "Dec": "42 33",
-       "size": "32\"x28\"",
-       "mag": 8.3,
-       "const": "And"
-      }
-     ]
-  ]
-}
+[
+  {
+    "type": "dn",
+    "catalogCode": "B143",
+    "RA": "19 41.5",
+    "Dec": "11 00",
+    "objectClass": "6",
+    "size": "30'",
+    "constellation": "Aql"
+  },
+  {
+    "type": "dn",
+    "catalogCode": "B127",
+    "RA": "19 01.6",
+    "Dec": "-05 26",
+    "objectClass": "5 Ir",
+    "size": "20'",
+    "constellation": "Aql"
+  },
+  {
+    "type": "dn",
+    "catalogCode": "B29",
+    "RA": "05 06.2",
+    "Dec": "31 44",
+    "objectClass": "6 C",
+    "size": "10'",
+    "constellation": "Aur"
+  },
+  {
+    "type": "dn",
+    "catalogCode": "B92",
+    "RA": "18 15.5",
+    "Dec": "-18 14",
+    "objectClass": "6 E G",
+    "size": "15'",
+    "constellation": "sgr"
+  },
+  {
+    "type": "dn",
+    "catalogCode": "B132",
+    "RA": "19 04.1",
+    "Dec": "-04 28",
+    "objectClass": "6 Ir",
+    "size": "16'",
+    "constellation": "Aql"
+  },
+  {
+    "type": "dn",
+    "catalogCode": "B84",
+    "RA": "17 46.5",
+    "Dec": "-20 11",
+    "objectClass": "6 Ir",
+    "size": "30'",
+    "constellation": "sgr"
+  },
+  {
+    "type": "dn",
+    "catalogCode": "B27",
+    "RA": "04 54.6",
+    "Dec": "30 37",
+    "objectClass": "6 Ir",
+    "size": "5'",
+    "constellation": "Aur"
+  },
+  {
+    "type": "dn",
+    "catalogCode": "B142",
+    "RA": "19 40.7",
+    "Dec": "10 57",
+    "objectClass": "6 Ir",
+    "size": "80'",
+    "constellation": "Aql"
+  },
+  {
+    "type": "dn",
+    "catalogCode": "B68",
+    "RA": "17 22.6",
+    "Dec": "-23 47",
+    "objectClass": "6 K G",
+    "size": " 4'",
+    "constellation": "oph"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "3344",
+    "RA": "10 43.5",
+    "Dec": "24 55",
+    "objectClass": "(R)SAB(r)bc",
+    "size": "6.9x6.5",
+    "mag": "10",
+    "constellation": "LMi"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "5812",
+    "RA": "15 01.0",
+    "Dec": "-07 28",
+    "objectClass": "E0",
+    "size": "2.4x2.2",
+    "mag": "11.2",
+    "constellation": "Lib"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "185",
+    "RA": "00 39.0",
+    "Dec": "48 20",
+    "objectClass": "E3P",
+    "size": "11x9.8",
+    "mag": "9.2",
+    "constellation": "Cas"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "4214",
+    "RA": "12 15.6",
+    "Dec": "36 20",
+    "objectClass": "IAB(s)m",
+    "size": "7.9x6.3",
+    "mag": "9.7",
+    "constellation": "CVn"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "4449",
+    "RA": "12 28.2",
+    "Dec": "44 05",
+    "objectClass": "IBm",
+    "size": "5.1x3.7",
+    "mag": "9.4",
+    "constellation": "CVn"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "3115",
+    "RA": "10 05.2",
+    "Dec": "-07 44",
+    "objectClass": "S0\"sp",
+    "size": "8.3x3.2",
+    "mag": "9.1",
+    "constellation": "Sex"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "2775",
+    "RA": "09 10.4",
+    "Dec": "07 03",
+    "objectClass": "SA(r)ab",
+    "size": "4.5x3.5",
+    "mag": "10.3",
+    "constellation": "Cnc"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "2841",
+    "RA": "09 22.0",
+    "Dec": "50 58",
+    "objectClass": "SA(r)b:",
+    "size": "8.1x3.8",
+    "mag": "9.3",
+    "constellation": "UMa"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "2683",
+    "RA": "08 52.7",
+    "Dec": "33 26",
+    "objectClass": "SA(rs)b",
+    "size": "9.3x2.5",
+    "mag": "9.7",
+    "constellation": "Lyn"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "891",
+    "RA": "02 22.5",
+    "Dec": "42 21",
+    "objectClass": "SA(s)b?sp",
+    "size": "13x2.8",
+    "mag": "10",
+    "constellation": "And"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "4565",
+    "RA": "12 36.4",
+    "Dec": "26 00",
+    "objectClass": "SA(s)b?sp",
+    "size": "16x2.8",
+    "mag": "9.5",
+    "constellation": "Com"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "7331",
+    "RA": "22 37.1",
+    "Dec": "34 26",
+    "objectClass": "SA(s)bc",
+    "size": "11x4.0",
+    "mag": "9.5",
+    "constellation": "Peg"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "5907",
+    "RA": "15 15.9",
+    "Dec": "56 19",
+    "objectClass": "SA(s)c:sp",
+    "size": "12x1.8",
+    "mag": "10.2",
+    "constellation": "Dra"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "4244",
+    "RA": "12 17.5",
+    "Dec": "37 48",
+    "objectClass": "SA(s)cd:sp",
+    "size": "16x2.5",
+    "mag": "10.1",
+    "constellation": "CVn"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "1622",
+    "RA": "04 36.6",
+    "Dec": "-03 11",
+    "objectClass": "SAB(r)ab:",
+    "size": "3.9x1.1",
+    "mag": "12.3",
+    "constellation": "Eri"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "4725",
+    "RA": "12 50.4",
+    "Dec": "25 31",
+    "objectClass": "SAB(r)abP",
+    "size": "11x7.9",
+    "mag": "9.2",
+    "constellation": "Com"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "6384",
+    "RA": "17 32.4",
+    "Dec": "07 04",
+    "objectClass": "SAB(r)bc",
+    "size": "6.0x4.3",
+    "mag": "10.6",
+    "constellation": "Oph"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "2903",
+    "RA": "09 32.1",
+    "Dec": "21 30",
+    "objectClass": "SAB(rs)bc",
+    "size": "13x6.6",
+    "mag": "8.9",
+    "constellation": "Leo"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "4088",
+    "RA": "12 05.6",
+    "Dec": "50 32",
+    "objectClass": "SAB(rs)bc",
+    "size": "5.8x2.5",
+    "mag": "10.5",
+    "constellation": "UMa"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "6946",
+    "RA": "20 34.8",
+    "Dec": "60 09",
+    "objectClass": "SAB(rs)cd",
+    "size": "11x9.8",
+    "mag": "8.8",
+    "constellation": "Cyg"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "253",
+    "RA": "00 47.6",
+    "Dec": "-25 18",
+    "objectClass": "SAB(s)c",
+    "size": "25x7.4",
+    "mag": "7.1",
+    "constellation": "Scl"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "2403",
+    "RA": "07 36.9",
+    "Dec": "65 36",
+    "objectClass": "SAB(s)cd",
+    "size": "18x11",
+    "mag": "8.4",
+    "constellation": "Cam"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "247",
+    "RA": "00 47.2",
+    "Dec": "-20 46",
+    "objectClass": "SAB(s)d",
+    "size": "20x7.4",
+    "mag": "8.8",
+    "constellation": "Cet"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "925",
+    "RA": "02 27.3",
+    "Dec": "33 34",
+    "objectClass": "SAB(s)d",
+    "size": "9.8x6.0",
+    "mag": "10",
+    "constellation": "Tri"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "672",
+    "RA": "01 47.9",
+    "Dec": "27 26",
+    "objectClass": "SB(s)cd",
+    "size": "6.6x2.7",
+    "mag": "10.8",
+    "constellation": "Tri"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "4236",
+    "RA": "12 16.7",
+    "Dec": "69 28",
+    "objectClass": "SB(s)dm",
+    "size": "19x6.9",
+    "mag": "9.6",
+    "constellation": "Dra"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "4631",
+    "RA": "12 42.1",
+    "Dec": "32 33",
+    "objectClass": "SB(s)dsp",
+    "size": "15x3.3",
+    "mag": "9.2",
+    "constellation": "CVn"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "4656",
+    "RA": "12 43.9",
+    "Dec": "32 11",
+    "objectClass": "SB(s)mP",
+    "size": "14x3.3",
+    "mag": "10.3",
+    "constellation": "CVn"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "3628",
+    "RA": "11 20.3",
+    "Dec": "13 36",
+    "objectClass": "SbPsp",
+    "size": "15x3.6",
+    "mag": "9.4",
+    "constellation": "Leo"
+  },
+  {
+    "type": "eg",
+    "catalogCode": "2419",
+    "RA": "07 38.2",
+    "Dec": "38 53",
+    "size": "4.1",
+    "mag": "10.3",
+    "constellation": "Lyn"
+  },
+  {
+    "type": "gc",
+    "catalogCode": "6356",
+    "RA": "17 23.6",
+    "Dec": "-17 49",
+    "objectClass": "II",
+    "size": "7.2",
+    "mag": "8.2",
+    "constellation": "Oph"
+  },
+  {
+    "type": "gc",
+    "catalogCode": "6712",
+    "RA": "18 53.0",
+    "Dec": "-08 42",
+    "objectClass": "IX",
+    "size": "7.2",
+    "mag": "8.2",
+    "constellation": "Sct"
+  },
+  {
+    "type": "gc",
+    "catalogCode": "6229",
+    "RA": "16 47.0",
+    "Dec": "47 32",
+    "objectClass": "VII",
+    "size": "4.5",
+    "mag": "9.4",
+    "constellation": "Her"
+  },
+  {
+    "type": "gc",
+    "catalogCode": "6934",
+    "RA": "20 34.1",
+    "Dec": "07 24",
+    "objectClass": "VIII",
+    "size": "5.9",
+    "mag": "8.7",
+    "constellation": "Del"
+  },
+  {
+    "type": "gc",
+    "catalogCode": "6760",
+    "RA": "19 11.2",
+    "Dec": "01 02",
+    "objectClass": "XI",
+    "size": "6.6",
+    "mag": "9.1",
+    "constellation": "Aql"
+  },
+  {
+    "type": "gc",
+    "catalogCode": "6553",
+    "RA": "18 09.3",
+    "Dec": "-25 54",
+    "objectClass": "XI",
+    "size": "8.1",
+    "mag": "8.1",
+    "constellation": "Sgr"
+  },
+  {
+    "type": "gc",
+    "catalogCode": "5466",
+    "RA": "14 05.4",
+    "Dec": "28 32",
+    "objectClass": "XII",
+    "size": "11",
+    "mag": "9",
+    "constellation": "Boo"
+  },
+  {
+    "type": "gc",
+    "catalogCode": "6544",
+    "RA": "18 07.4",
+    "Dec": "-25 00",
+    "size": "8.9",
+    "mag": "8.1",
+    "constellation": "Sgr"
+  },
+  {
+    "type": "gn",
+    "catalogCode": "2023",
+    "RA": "05 41.7",
+    "Dec": "-02 16",
+    "objectClass": "ce",
+    "size": "10x8",
+    "constellation": "Ori"
+  },
+  {
+    "type": "gn",
+    "catalogCode": "1977",
+    "RA": "05 35.5",
+    "Dec": "-04 52",
+    "objectClass": "ce",
+    "size": "40x25",
+    "constellation": "Ori"
+  },
+  {
+    "type": "gn",
+    "catalogCode": "2261",
+    "RA": "06 39.1",
+    "Dec": "08 45",
+    "objectClass": "ce",
+    "size": "var",
+    "constellation": "Mon"
+  },
+  {
+    "type": "gn",
+    "catalogCode": "2359",
+    "RA": "07 17.7",
+    "Dec": "-13 14",
+    "objectClass": "e",
+    "size": "10x5",
+    "constellation": "CMa"
+  },
+  {
+    "type": "gn",
+    "catalogCode": "2024",
+    "RA": "05 41.9",
+    "Dec": "-01 51",
+    "objectClass": "e",
+    "size": "30x30",
+    "constellation": "Ori"
+  },
+  {
+    "type": "gn",
+    "catalogCode": "281",
+    "RA": "00 53.3",
+    "Dec": "56 37",
+    "objectClass": "e",
+    "size": "35x30",
+    "constellation": "Cas"
+  },
+  {
+    "type": "gn",
+    "catalogCode": "6960",
+    "RA": "20 45.7",
+    "Dec": "30 43",
+    "objectClass": "e(SNR)",
+    "constellation": "Cyg"
+  },
+  {
+    "type": "gn",
+    "catalogCode": "6992",
+    "RA": "20 56.4",
+    "Dec": "31 42",
+    "objectClass": "e(SNR)",
+    "constellation": "Cyg"
+  },
+  {
+    "type": "gn",
+    "catalogCode": "1788",
+    "RA": "05 07.0",
+    "Dec": "-03 20",
+    "objectClass": "c",
+    "size": "8x5",
+    "constellation": "Ori"
+  },
+  {
+    "type": "gn",
+    "catalogCode": "6995",
+    "RA": "20 57.1",
+    "Dec": "31 14",
+    "size": "12x12",
+    "constellation": "Cyg"
+  },
+  {
+    "type": "gn",
+    "catalogCode": "2182",
+    "RA": "06 09.5",
+    "Dec": "-06 20",
+    "size": "3x3",
+    "mag": "9",
+    "constellation": "Ori"
+  },
+  {
+    "type": "gn",
+    "catalogCode": "IC5067",
+    "RA": "20 47.8",
+    "Dec": "44 22",
+    "size": "85x75",
+    "mag": "7",
+    "constellation": "Cyg"
+  },
+  {
+    "type": "oc",
+    "catalogCode": "2158",
+    "RA": "06 07.5",
+    "Dec": "24 06",
+    "objectClass": "11 3 r",
+    "size": "5",
+    "mag": "8.6",
+    "constellation": "Gem"
+  },
+  {
+    "type": "oc",
+    "catalogCode": "457",
+    "RA": "01 19.1",
+    "Dec": "58 17",
+    "objectClass": "11 3 r",
+    "size": "12",
+    "mag": "6.4",
+    "constellation": "Cas"
+  },
+  {
+    "type": "oc",
+    "catalogCode": "6819",
+    "RA": "19 41.3",
+    "Dec": "40 11",
+    "objectClass": "I 1 r",
+    "size": "10",
+    "mag": "7.3",
+    "constellation": "Cyg"
+  },
+  {
+    "type": "oc",
+    "catalogCode": "2420",
+    "RA": "07 38.5",
+    "Dec": "+21 34",
+    "objectClass": "I 1r",
+    "size": "10",
+    "mag": "8.3",
+    "constellation": "Gem"
+  },
+  {
+    "type": "oc",
+    "catalogCode": "188",
+    "RA": "00 47.4",
+    "Dec": "85 14",
+    "objectClass": "I 2 r",
+    "size": "14",
+    "mag": "8.1",
+    "constellation": "Cep"
+  },
+  {
+    "type": "oc",
+    "catalogCode": "1502",
+    "RA": "04 07.7",
+    "Dec": "62 20",
+    "objectClass": "I 3 in",
+    "size": "8",
+    "mag": "5.7",
+    "constellation": "Cam"
+  },
+  {
+    "type": "oc",
+    "catalogCode": "2281",
+    "RA": "06 49.3",
+    "Dec": "41 04",
+    "objectClass": "I 3 m",
+    "size": "15",
+    "mag": "5.4",
+    "constellation": "Aur"
+  },
+  {
+    "type": "oc",
+    "catalogCode": "2360",
+    "RA": "07 17.8",
+    "Dec": "-15 37",
+    "objectClass": "I 3 r",
+    "size": "13",
+    "mag": "7.2",
+    "constellation": "CMa"
+  },
+  {
+    "type": "oc",
+    "catalogCode": "2301",
+    "RA": "06 51.8",
+    "Dec": "00 28",
+    "objectClass": "I 3 r",
+    "size": "15",
+    "mag": "6",
+    "constellation": "Mon"
+  },
+  {
+    "type": "oc",
+    "catalogCode": "6939",
+    "RA": "20 31.4",
+    "Dec": "60 40",
+    "objectClass": "II 1 r",
+    "size": "8",
+    "mag": "7.8",
+    "constellation": "Cep"
+  },
+  {
+    "type": "oc",
+    "catalogCode": "1528",
+    "RA": "04 15.4",
+    "Dec": "51 14",
+    "objectClass": "II 2 m",
+    "size": "18",
+    "mag": "6.4",
+    "constellation": "Per"
+  },
+  {
+    "type": "oc",
+    "catalogCode": "7789",
+    "RA": "23 57.0",
+    "Dec": "56 44",
+    "objectClass": "II 2 г",
+    "size": "16",
+    "mag": "6.7",
+    "constellation": "Cas"
+  },
+  {
+    "type": "oc",
+    "catalogCode": "663",
+    "RA": "01 46.0",
+    "Dec": "61 15",
+    "objectClass": "II 3 r",
+    "size": "8",
+    "mag": "7.1",
+    "constellation": "Cas"
+  },
+  {
+    "type": "oc",
+    "catalogCode": "752",
+    "RA": "01 57.8",
+    "Dec": "37 41",
+    "objectClass": "III 1 m",
+    "size": "45",
+    "mag": "5.7",
+    "constellation": "And"
+  },
+  {
+    "type": "oc",
+    "catalogCode": "1664",
+    "RA": "04 51.1",
+    "Dec": "43 42",
+    "objectClass": "III 1 p",
+    "size": "13",
+    "mag": "7.6",
+    "constellation": "Aur"
+  },
+  {
+    "type": "oc",
+    "catalogCode": "6940",
+    "RA": "20 34.6",
+    "Dec": "28 18",
+    "objectClass": "III 2 m",
+    "size": "25",
+    "mag": "6.3",
+    "constellation": "Vul"
+  },
+  {
+    "type": "oc",
+    "catalogCode": "2539",
+    "RA": "08 10.7",
+    "Dec": "-12 50",
+    "objectClass": "III 2m",
+    "size": "15",
+    "mag": "6.5",
+    "constellation": "Pup"
+  },
+  {
+    "type": "oc",
+    "catalogCode": "2169",
+    "RA": "06 08.4",
+    "Dec": "13 57",
+    "objectClass": "III 3 m",
+    "size": "6",
+    "mag": "5.9",
+    "constellation": "Ori"
+  },
+  {
+    "type": "oc",
+    "catalogCode": "Cr 399",
+    "RA": "19 25.4",
+    "Dec": "20 11",
+    "objectClass": "III 3m",
+    "size": "60",
+    "mag": "3.6",
+    "constellation": "Vul"
+  },
+  {
+    "type": "oc",
+    "catalogCode": "1817",
+    "RA": "05 12.1",
+    "Dec": "16 42",
+    "objectClass": "IV 2 r",
+    "size": "16",
+    "mag": "7.7",
+    "constellation": "Tau"
+  },
+  {
+    "type": "pn",
+    "catalogCode": "1501",
+    "RA": "04 07.0",
+    "Dec": "60 55",
+    "objectClass": "3",
+    "size": "56\"x48\"",
+    "mag": "11.5",
+    "constellation": "Cam"
+  },
+  {
+    "type": "pn",
+    "catalogCode": "7008",
+    "RA": "21 00.6",
+    "Dec": "54 33",
+    "objectClass": "3",
+    "size": "98\"x75\"",
+    "mag": "10.7",
+    "constellation": "Cyg"
+  },
+  {
+    "type": "pn",
+    "catalogCode": "7293",
+    "RA": "22 29.6",
+    "Dec": "-20 51",
+    "objectClass": "4",
+    "size": "12x10",
+    "mag": "7.3",
+    "constellation": "Aqr"
+  },
+  {
+    "type": "pn",
+    "catalogCode": "PK64+5.1",
+    "RA": "19 34.8",
+    "Dec": "30 31",
+    "objectClass": "4",
+    "size": "13\"x10\"",
+    "mag": "11.4",
+    "constellation": "Cyg"
+  },
+  {
+    "type": "pn",
+    "catalogCode": "I 418",
+    "RA": "05 27.5",
+    "Dec": "-12 42",
+    "objectClass": "4",
+    "size": "14\"x11\"",
+    "mag": "9.3",
+    "constellation": "Lep"
+  },
+  {
+    "type": "pn",
+    "catalogCode": "6818",
+    "RA": "19 44.0",
+    "Dec": "-14 09",
+    "objectClass": "4",
+    "size": "22\"x15\"",
+    "mag": "9.3",
+    "constellation": "Sgr"
+  },
+  {
+    "type": "pn",
+    "catalogCode": "2438",
+    "RA": "07 41.8",
+    "Dec": "-14 44",
+    "objectClass": "4",
+    "size": "73\"x68\"",
+    "mag": "11",
+    "constellation": "Pup"
+  },
+  {
+    "type": "pn",
+    "catalogCode": "I3568",
+    "RA": "12 32.9",
+    "Dec": "82 33",
+    "objectClass": "2(2a)",
+    "size": "18\"x18\"",
+    "mag": "10.6",
+    "constellation": "Cam"
+  },
+  {
+    "type": "pn",
+    "catalogCode": "1514",
+    "RA": "04 09.2",
+    "Dec": "30 47",
+    "objectClass": "3(2)",
+    "size": "2.3x2.0",
+    "mag": "10.9",
+    "constellation": "Tau"
+  },
+  {
+    "type": "pn",
+    "catalogCode": "6543",
+    "RA": "17 58.6",
+    "Dec": "66 38",
+    "objectClass": "3a",
+    "size": "23\"x17\"",
+    "mag": "8.1",
+    "constellation": "Dra"
+  },
+  {
+    "type": "pn",
+    "catalogCode": "6826",
+    "RA": "19 44.8",
+    "Dec": "50 31",
+    "objectClass": "3a",
+    "size": "27\"x24\"",
+    "mag": "8.8",
+    "constellation": "Cyg"
+  },
+  {
+    "type": "pn",
+    "catalogCode": "2371-2",
+    "RA": "07 25.5",
+    "Dec": "29 29",
+    "objectClass": "3a+6",
+    "size": "2.2x0.9",
+    "mag": "11.3",
+    "constellation": "Gem"
+  },
+  {
+    "type": "pn",
+    "catalogCode": "6781",
+    "RA": "19 18.4",
+    "Dec": "06 33",
+    "objectClass": "3b",
+    "size": "1.9x1.8",
+    "mag": "11.4",
+    "constellation": "Aql"
+  },
+  {
+    "type": "pn",
+    "catalogCode": "40",
+    "RA": "00 13.0",
+    "Dec": "72 32",
+    "objectClass": "3b",
+    "size": "38\"x35\"",
+    "mag": "12.4",
+    "constellation": "Cep"
+  },
+  {
+    "type": "pn",
+    "catalogCode": "246",
+    "RA": "00 47.0",
+    "Dec": "-11 53",
+    "objectClass": "3b",
+    "size": "4.6x4.1",
+    "mag": "10.9",
+    "constellation": "Cet"
+  },
+  {
+    "type": "pn",
+    "catalogCode": "2392",
+    "RA": "07 29.2",
+    "Dec": "20 55",
+    "objectClass": "3b",
+    "size": "47\"x43\"",
+    "mag": "9.2",
+    "constellation": "Gem"
+  },
+  {
+    "type": "pn",
+    "catalogCode": "1535",
+    "RA": "04 14.3",
+    "Dec": "-12 45",
+    "objectClass": "4(2c)",
+    "size": "48\"x42\"",
+    "mag": "9.6",
+    "constellation": "Eri"
+  },
+  {
+    "type": "pn",
+    "catalogCode": "3242",
+    "RA": "10 24.8",
+    "Dec": "-18 38",
+    "objectClass": "4(3b)",
+    "size": "45\"x36\"",
+    "mag": "7.8",
+    "constellation": "Hya"
+  },
+  {
+    "type": "pn",
+    "catalogCode": "7009",
+    "RA": "21 04.2",
+    "Dec": "-11 22",
+    "objectClass": "4(6)",
+    "size": "44\"x23\"",
+    "mag": "8",
+    "constellation": "Aqr"
+  },
+  {
+    "type": "pn",
+    "catalogCode": "7026",
+    "RA": "21 06.3",
+    "Dec": "47 51",
+    "size": "27\"x11\"",
+    "mag": "10.9",
+    "constellation": "Cyg"
+  },
+  {
+    "type": "pn",
+    "catalogCode": "7662",
+    "RA": "23 25.9",
+    "Dec": "42 33",
+    "size": "32\"x28\"",
+    "mag": "8.3",
+    "constellation": "And"
+  }
+]

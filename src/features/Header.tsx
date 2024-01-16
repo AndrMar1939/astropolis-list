@@ -25,11 +25,7 @@ export const Header = () => {
         />
     </Tabs>
 
-    <Divider
-      sx={{
-        mb: 4,
-      }}
-    />
+    <Divider />
    </header>
   )
 }

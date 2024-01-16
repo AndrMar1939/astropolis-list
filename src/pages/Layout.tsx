@@ -4,27 +4,51 @@ import { Header, Footer } from "../features"
 
 export const Layout = () => {
   return (
-   <Container
-      sx={{
-        display: 'flex',
-        flexDirection: 'column',
-        minHeight: '100vh',
-      }}
-   >
-      <Header />
-
-      <Box 
-        component={'main'} 
+    <>
+      <Box
         sx={{
-          flex: 1,
+          position: 'sticky',
+          top: '0',
+          background: 'white',
+          zIndex: 1000,
         }}
       >
-        <Outlet />
+        <Header />
       </Box>
 
-      <Divider />
+      <Container
+          sx={{
+            position: 'relative',
+            display: 'flex',
+            flexDirection: 'column',
+            minHeight: '100vh',
+          }}
+      >
+        <Box 
+          component={'main'} 
+          sx={{
+            flex: 1,
+            mt: 4,
+            mb: 6,
+          }}
+        >
+          <Outlet />
+        </Box>
+      </Container>
 
-      <Footer />
-   </Container>
+        <Box
+        sx={{
+          position: 'sticky',
+          width: '100%',
+          bottom: '0',
+          background: 'white',
+          zIndex: 1000,
+        }}
+        >
+          <Divider />
+
+          <Footer />
+        </Box>
+    </>
   )
 }

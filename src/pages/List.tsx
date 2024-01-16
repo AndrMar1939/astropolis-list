@@ -1,14 +1,14 @@
 import { Grid } from "@mui/material"
+import DSOList from '../api/astropolis-list.json';
+import { ItemCard } from "../features";
 
 export const List = () => {
+  console.log(DSOList)
   return (
     <Grid container spacing={2}>
-      <Grid xs={12} md={4}>
-        <p>xs=6 md=8</p>
-      </Grid>
-      <Grid xs={12} md={4}>
-        <p>xs=6 md=4</p>
-      </Grid>
+      {DSOList.map(dso => (
+        <ItemCard key={dso.catalogCode} {...dso} />
+      ))}
     </Grid>
   )
 }
