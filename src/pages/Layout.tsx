@@ -1,8 +1,17 @@
-import { Outlet } from "react-router-dom"
-import { Container, Box, Divider } from "@mui/material"
-import { Header, Footer } from "../features"
+import { useState, FC } from 'react';
+import { Outlet } from 'react-router-dom';
+import { Container, Box, Divider } from '@mui/material';
+import { Header, Footer } from '../features';
+import { Filter } from '../features';
 
-export const Layout = () => {
+interface LayoutProps {
+  activeFilter: string;
+  setActiveFilter: (value: string) => void;
+}
+
+export const Layout: FC<LayoutProps> = ({ activeFilter, setActiveFilter}) => {
+  const [isFilterMenuVisible, setIsFilterMenuVisible] = useState(false);
+
   return (
     <>
       <Box
@@ -13,17 +22,17 @@ export const Layout = () => {
           zIndex: 1000,
         }}
       >
-        <Header />
+        <Header setIsVisible={setIsFilterMenuVisible} />
       </Box>
 
       <Container
-          sx={{
-            position: 'relative',
-            flexDirection: 'column',
-          }}
+        sx={{
+          position: 'relative',
+          flexDirection: 'column',
+        }}
       >
-        <Box 
-          component={'main'} 
+        <Box
+          component={'main'}
           sx={{
             mt: 4,
             mb: 6,
@@ -34,7 +43,7 @@ export const Layout = () => {
         </Box>
       </Container>
 
-        <Box
+      <Box
         sx={{
           position: 'fixed',
           width: '100%',
@@ -43,11 +52,18 @@ export const Layout = () => {
           background: 'white',
           zIndex: 1000,
         }}
-        >
-          <Divider />
+      >
+        <Divider />
 
-          <Footer />
-        </Box>
+        <Footer />
+      </Box>
+
+      <Filter
+        isVisible={isFilterMenuVisible}
+        setIsVisible={setIsFilterMenuVisible}
+        activeFilter={activeFilter}
+        setActiveFilter={setActiveFilter}
+      />
     </>
-  )
-}
+  );
+};
