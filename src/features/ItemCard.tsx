@@ -59,7 +59,7 @@ export const ItemCard: FC<ItemCardProps> = ({
         <CardMedia
           component="img"
           sx={{ height: 300, objectFit: 'cover' }}
-          image={`/images/${imgSrc}`}
+          image={`./images/${imgSrc}`}
           title="deep space object position"
           loading="lazy"
         />
