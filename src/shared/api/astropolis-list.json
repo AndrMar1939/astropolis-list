@@ -485,6 +485,7 @@
     "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_2419"
   },
   {
+    "imgSrc": "6356.jpg",
     "type": "gc",
     "catalogCode": "6356",
     "RA": "17 23.6",
@@ -492,9 +493,12 @@
     "objectClass": "II",
     "size": "7.2",
     "mag": "8.2",
-    "constellation": "Oph"
+    "constellation": "Oph",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_6356",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_6356"
   },
   {
+    "imgSrc": "6712.jpg",
     "type": "gc",
     "catalogCode": "6712",
     "RA": "18 53.0",
@@ -502,9 +506,12 @@
     "objectClass": "IX",
     "size": "7.2",
     "mag": "8.2",
-    "constellation": "Sct"
+    "constellation": "Sct",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_6712",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_6712"
   },
   {
+    "imgSrc": "6229.jpg",
     "type": "gc",
     "catalogCode": "6229",
     "RA": "16 47.0",
@@ -512,9 +519,12 @@
     "objectClass": "VII",
     "size": "4.5",
     "mag": "9.4",
-    "constellation": "Her"
+    "constellation": "Her",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_6229",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_6229"
   },
   {
+    "imgSrc": "6934.jpg",
     "type": "gc",
     "catalogCode": "6934",
     "RA": "20 34.1",
@@ -522,9 +532,12 @@
     "objectClass": "VIII",
     "size": "5.9",
     "mag": "8.7",
-    "constellation": "Del"
+    "constellation": "Del",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_6934",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_6934"
   },
   {
+    "imgSrc": "6760.jpg",
     "type": "gc",
     "catalogCode": "6760",
     "RA": "19 11.2",
@@ -532,9 +545,12 @@
     "objectClass": "XI",
     "size": "6.6",
     "mag": "9.1",
-    "constellation": "Aql"
+    "constellation": "Aql",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_6760",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_6760"
   },
   {
+    "imgSrc": "6553.jpg",
     "type": "gc",
     "catalogCode": "6553",
     "RA": "18 09.3",
@@ -542,9 +558,12 @@
     "objectClass": "XI",
     "size": "8.1",
     "mag": "8.1",
-    "constellation": "Sgr"
+    "constellation": "Sgr",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_6553",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_6553"
   },
   {
+    "imgSrc": "5466.jpg",
     "type": "gc",
     "catalogCode": "5466",
     "RA": "14 05.4",
@@ -552,36 +571,47 @@
     "objectClass": "XII",
     "size": "11",
     "mag": "9",
-    "constellation": "Boo"
+    "constellation": "Boo",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_5466",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_5466"
   },
   {
+    "imgSrc": "6544.jpg",
     "type": "gc",
     "catalogCode": "6544",
     "RA": "18 07.4",
     "Dec": "-25 00",
     "size": "8.9",
     "mag": "8.1",
-    "constellation": "Sgr"
+    "constellation": "Sgr",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_6544",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_6544"
   },
   {
+    "imgSrc": "2023.jpg",
     "type": "gn",
     "catalogCode": "2023",
     "RA": "05 41.7",
     "Dec": "-02 16",
     "objectClass": "ce",
     "size": "10x8",
-    "constellation": "Ori"
+    "constellation": "Ori",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_2023",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_2023"
   },
   {
+    "imgSrc": "1977.jpg",
     "type": "gn",
     "catalogCode": "1977",
     "RA": "05 35.5",
     "Dec": "-04 52",
     "objectClass": "ce",
     "size": "40x25",
-    "constellation": "Ori"
+    "constellation": "Ori",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_1977",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_1977"
   },
-  { 
+  {
     "imgSrc": "2261.jpg",
     "type": "gn",
     "catalogCode": "2261",
@@ -589,87 +619,116 @@
     "Dec": "08 45",
     "objectClass": "ce",
     "size": "var",
-    "constellation": "Mon"
+    "constellation": "Mon",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_2261",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_2261"
   },
   {
+    "imgSrc": "2359.jpg",
     "type": "gn",
     "catalogCode": "2359",
     "RA": "07 17.7",
     "Dec": "-13 14",
     "objectClass": "e",
     "size": "10x5",
-    "constellation": "CMa"
+    "constellation": "CMa",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_2359",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_2359"
   },
   {
+    "imgSrc": "2024.jpg",
     "type": "gn",
     "catalogCode": "2024",
     "RA": "05 41.9",
     "Dec": "-01 51",
     "objectClass": "e",
     "size": "30x30",
-    "constellation": "Ori"
+    "constellation": "Ori",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_2024",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_2024"
   },
   {
+    "imgSrc": "281.jpg",
     "type": "gn",
     "catalogCode": "281",
     "RA": "00 53.3",
     "Dec": "56 37",
     "objectClass": "e",
     "size": "35x30",
-    "constellation": "Cas"
+    "constellation": "Cas",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_281",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_281"
   },
   {
+    "imgSrc": "6960.jpg",
     "type": "gn",
     "catalogCode": "6960",
     "RA": "20 45.7",
     "Dec": "30 43",
     "objectClass": "e(SNR)",
-    "constellation": "Cyg"
+    "constellation": "Cyg",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_6960",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_6960"
   },
   {
+    "imgSrc": "6960.jpg",
     "type": "gn",
     "catalogCode": "6992",
     "RA": "20 56.4",
     "Dec": "31 42",
     "objectClass": "e(SNR)",
-    "constellation": "Cyg"
+    "constellation": "Cyg",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_6992",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_6992"
   },
   {
+    "imgSrc": "6960.jpg",
+    "type": "gn",
+    "catalogCode": "6995",
+    "RA": "20 57.1",
+    "Dec": "31 14",
+    "size": "12x12",
+    "constellation": "Cyg",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_6995",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_6995"
+  },
+  {
+    "imgSrc": "1788.jpg",
     "type": "gn",
     "catalogCode": "1788",
     "RA": "05 07.0",
     "Dec": "-03 20",
     "objectClass": "c",
     "size": "8x5",
-    "constellation": "Ori"
+    "constellation": "Ori",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_1788",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_1788"
   },
   {
-    "type": "gn",
-    "catalogCode": "6995",
-    "RA": "20 57.1",
-    "Dec": "31 14",
-    "size": "12x12",
-    "constellation": "Cyg"
-  },
-  {
+    "imgSrc": "2182.jpg",
     "type": "gn",
     "catalogCode": "2182",
     "RA": "06 09.5",
     "Dec": "-06 20",
     "size": "3x3",
     "mag": "9",
-    "constellation": "Ori"
+    "constellation": "Ori",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_2182"
   },
   {
+    "imgSrc": "IC5067.jpg",
     "type": "gn",
     "catalogCode": "IC5067",
     "RA": "20 47.8",
     "Dec": "44 22",
     "size": "85x75",
     "mag": "7",
-    "constellation": "Cyg"
+    "constellation": "Cyg",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/IC_5067",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/IC_5067"
   },
   {
+    "imgSrc": "2158.jpg",
     "type": "oc",
     "catalogCode": "2158",
     "RA": "06 07.5",
@@ -677,9 +736,12 @@
     "objectClass": "11 3 r",
     "size": "5",
     "mag": "8.6",
-    "constellation": "Gem"
+    "constellation": "Gem",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_2158",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_2158"
   },
   {
+    "imgSrc": "457.jpg",
     "type": "oc",
     "catalogCode": "457",
     "RA": "01 19.1",
@@ -687,9 +749,12 @@
     "objectClass": "11 3 r",
     "size": "12",
     "mag": "6.4",
-    "constellation": "Cas"
+    "constellation": "Cas",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_457",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_457"
   },
   {
+    "imgSrc": "6819.jpg",
     "type": "oc",
     "catalogCode": "6819",
     "RA": "19 41.3",
@@ -697,9 +762,12 @@
     "objectClass": "I 1 r",
     "size": "10",
     "mag": "7.3",
-    "constellation": "Cyg"
+    "constellation": "Cyg",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_6819",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_6819"
   },
   {
+    "imgSrc": "2420.jpg",
     "type": "oc",
     "catalogCode": "2420",
     "RA": "07 38.5",
@@ -707,9 +775,11 @@
     "objectClass": "I 1r",
     "size": "10",
     "mag": "8.3",
-    "constellation": "Gem"
+    "constellation": "Gem",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_2420"
   },
   {
+    "imgSrc": "188.jpg",
     "type": "oc",
     "catalogCode": "188",
     "RA": "00 47.4",
@@ -717,9 +787,12 @@
     "objectClass": "I 2 r",
     "size": "14",
     "mag": "8.1",
-    "constellation": "Cep"
+    "constellation": "Cep",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_188",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_188"
   },
   {
+    "imgSrc": "1502.jpg",
     "type": "oc",
     "catalogCode": "1502",
     "RA": "04 07.7",
@@ -727,9 +800,12 @@
     "objectClass": "I 3 in",
     "size": "8",
     "mag": "5.7",
-    "constellation": "Cam"
+    "constellation": "Cam",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_1502",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_1502"
   },
   {
+    "imgSrc": "2281.jpg",
     "type": "oc",
     "catalogCode": "2281",
     "RA": "06 49.3",
@@ -737,9 +813,12 @@
     "objectClass": "I 3 m",
     "size": "15",
     "mag": "5.4",
-    "constellation": "Aur"
+    "constellation": "Aur",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_2281",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_2281"
   },
   {
+    "imgSrc": "2360.jpg",
     "type": "oc",
     "catalogCode": "2360",
     "RA": "07 17.8",
@@ -747,9 +826,12 @@
     "objectClass": "I 3 r",
     "size": "13",
     "mag": "7.2",
-    "constellation": "CMa"
+    "constellation": "CMa",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_2360",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_2360"
   },
   {
+    "imgSrc": "2301.jpg",
     "type": "oc",
     "catalogCode": "2301",
     "RA": "06 51.8",
@@ -757,9 +839,12 @@
     "objectClass": "I 3 r",
     "size": "15",
     "mag": "6",
-    "constellation": "Mon"
+    "constellation": "Mon",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_2301",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_2301"
   },
   {
+    "imgSrc": "6939.jpg",
     "type": "oc",
     "catalogCode": "6939",
     "RA": "20 31.4",
@@ -767,9 +852,12 @@
     "objectClass": "II 1 r",
     "size": "8",
     "mag": "7.8",
-    "constellation": "Cep"
+    "constellation": "Cep",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_6939",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_6939"
   },
   {
+    "imgSrc": "1528.jpg",
     "type": "oc",
     "catalogCode": "1528",
     "RA": "04 15.4",
@@ -777,9 +865,12 @@
     "objectClass": "II 2 m",
     "size": "18",
     "mag": "6.4",
-    "constellation": "Per"
+    "constellation": "Per",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_1528",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_1528"
   },
   {
+    "imgSrc": "7789.jpg",
     "type": "oc",
     "catalogCode": "7789",
     "RA": "23 57.0",
@@ -787,9 +878,12 @@
     "objectClass": "II 2 г",
     "size": "16",
     "mag": "6.7",
-    "constellation": "Cas"
+    "constellation": "Cas",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_7789",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_7789"
   },
   {
+    "imgSrc": "663.jpg",
     "type": "oc",
     "catalogCode": "663",
     "RA": "01 46.0",
@@ -797,9 +891,12 @@
     "objectClass": "II 3 r",
     "size": "8",
     "mag": "7.1",
-    "constellation": "Cas"
+    "constellation": "Cas",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_663",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_663"
   },
   {
+    "imgSrc": "752.jpg",
     "type": "oc",
     "catalogCode": "752",
     "RA": "01 57.8",
@@ -807,9 +904,12 @@
     "objectClass": "III 1 m",
     "size": "45",
     "mag": "5.7",
-    "constellation": "And"
+    "constellation": "And",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_752",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_752"
   },
   {
+    "imgSrc": "1664.jpg",
     "type": "oc",
     "catalogCode": "1664",
     "RA": "04 51.1",
@@ -817,9 +917,12 @@
     "objectClass": "III 1 p",
     "size": "13",
     "mag": "7.6",
-    "constellation": "Aur"
+    "constellation": "Aur",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_1664",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_1664"
   },
   {
+    "imgSrc": "6940.jpg",
     "type": "oc",
     "catalogCode": "6940",
     "RA": "20 34.6",
@@ -827,7 +930,9 @@
     "objectClass": "III 2 m",
     "size": "25",
     "mag": "6.3",
-    "constellation": "Vul"
+    "constellation": "Vul",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_6940",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_6940"
   },
   {
     "type": "oc",
