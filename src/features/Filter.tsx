@@ -24,6 +24,7 @@ export const Filter: FC<FilterProps> = ({
 }) => {
   const handleChange = (event: SelectChangeEvent) => {
     setActiveFilter(event.target.value as string);
+    setIsVisible(false);
   };
 
   return (
@@ -31,7 +32,6 @@ export const Filter: FC<FilterProps> = ({
       <Box
         sx={{ width: 250, py: 4, px: 1 }}
         role="presentation"
-        onClick={() => setIsVisible(true)}
       >
         <FormControl fullWidth>
           <InputLabel id="typesLabel">DSO type</InputLabel>

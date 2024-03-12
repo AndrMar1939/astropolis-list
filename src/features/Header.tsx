@@ -6,7 +6,7 @@ import FilterListIcon from '@mui/icons-material/FilterList';
 const buttonStyles = {
   position: 'absolute',
   top: '50%',
-  right: '30px',
+  right: { xs: '10px', md: '30px' },
   transform: 'translateY(-50%)',
 };
 

@@ -4,7 +4,7 @@ interface spaceObjectType {
 
 export const spaceObjectTypes: spaceObjectType = {
   dn: 'Dark nebula',
-  eg: 'EG',
+  eg: 'Extra galaxy',
   gc: 'Globular cluster',
   gn: 'Galaxy nebula',
   oc: 'Open cluster',
