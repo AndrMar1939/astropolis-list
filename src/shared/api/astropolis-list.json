@@ -935,6 +935,7 @@
     "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_6940"
   },
   {
+    "imgSrc": "2539.jpg",
     "type": "oc",
     "catalogCode": "2539",
     "RA": "08 10.7",
@@ -942,9 +943,12 @@
     "objectClass": "III 2m",
     "size": "15",
     "mag": "6.5",
-    "constellation": "Pup"
+    "constellation": "Pup",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_2539",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_2539"
   },
   {
+    "imgSrc": "2169.jpg",
     "type": "oc",
     "catalogCode": "2169",
     "RA": "06 08.4",
@@ -952,9 +956,12 @@
     "objectClass": "III 3 m",
     "size": "6",
     "mag": "5.9",
-    "constellation": "Ori"
+    "constellation": "Ori",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_2169",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_2169"
   },
   {
+    "imgSrc": "Cr399.jpg",
     "type": "oc",
     "catalogCode": "Cr 399",
     "RA": "19 25.4",
@@ -962,9 +969,11 @@
     "objectClass": "III 3m",
     "size": "60",
     "mag": "3.6",
-    "constellation": "Vul"
+    "constellation": "Vul",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/Brocchi%27s_Cluster"
   },
   {
+    "imgSrc": "1817.jpg",
     "type": "oc",
     "catalogCode": "1817",
     "RA": "05 12.1",
@@ -972,9 +981,12 @@
     "objectClass": "IV 2 r",
     "size": "16",
     "mag": "7.7",
-    "constellation": "Tau"
+    "constellation": "Tau",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_1817",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_1817"
   },
   {
+    "imgSrc": "1501.jpg",
     "type": "pn",
     "catalogCode": "1501",
     "RA": "04 07.0",
@@ -982,9 +994,12 @@
     "objectClass": "3",
     "size": "56\"x48\"",
     "mag": "11.5",
-    "constellation": "Cam"
+    "constellation": "Cam",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_1501",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_1501"
   },
   {
+    "imgSrc": "7008.jpg",
     "type": "pn",
     "catalogCode": "7008",
     "RA": "21 00.6",
@@ -992,9 +1007,12 @@
     "objectClass": "3",
     "size": "98\"x75\"",
     "mag": "10.7",
-    "constellation": "Cyg"
+    "constellation": "Cyg",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_7008",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_7008"
   },
   {
+    "imgSrc": "7293.jpg",
     "type": "pn",
     "catalogCode": "7293",
     "RA": "22 29.6",
@@ -1002,9 +1020,12 @@
     "objectClass": "4",
     "size": "12x10",
     "mag": "7.3",
-    "constellation": "Aqr"
+    "constellation": "Aqr",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_7293",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_7293"
   },
   {
+    "imgSrc": "PK64+5.1.jpg",
     "type": "pn",
     "catalogCode": "PK64+5.1",
     "RA": "19 34.8",
@@ -1015,6 +1036,7 @@
     "constellation": "Cyg"
   },
   {
+    "imgSrc": "I418.jpg",
     "type": "pn",
     "catalogCode": "I 418",
     "RA": "05 27.5",
@@ -1022,9 +1044,12 @@
     "objectClass": "4",
     "size": "14\"x11\"",
     "mag": "9.3",
-    "constellation": "Lep"
+    "constellation": "Lep",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/IC_418",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/IC_418"
   },
   {
+    "imgSrc": "6818.jpg",
     "type": "pn",
     "catalogCode": "6818",
     "RA": "19 44.0",
@@ -1032,9 +1057,12 @@
     "objectClass": "4",
     "size": "22\"x15\"",
     "mag": "9.3",
-    "constellation": "Sgr"
+    "constellation": "Sgr",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_6818",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_6818"
   },
   {
+    "imgSrc": "2438.jpg",
     "type": "pn",
     "catalogCode": "2438",
     "RA": "07 41.8",
@@ -1042,9 +1070,12 @@
     "objectClass": "4",
     "size": "73\"x68\"",
     "mag": "11",
-    "constellation": "Pup"
+    "constellation": "Pup",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_2438",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_2438"
   },
   {
+    "imgSrc": "I3568.jpg",
     "type": "pn",
     "catalogCode": "I3568",
     "RA": "12 32.9",
@@ -1052,9 +1083,12 @@
     "objectClass": "2(2a)",
     "size": "18\"x18\"",
     "mag": "10.6",
-    "constellation": "Cam"
+    "constellation": "Cam",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/Lemon_Slice_Nebula",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/IC_3568"
   },
   {
+    "imgSrc": "1514.jpg",
     "type": "pn",
     "catalogCode": "1514",
     "RA": "04 09.2",
@@ -1062,9 +1096,12 @@
     "objectClass": "3(2)",
     "size": "2.3x2.0",
     "mag": "10.9",
-    "constellation": "Tau"
+    "constellation": "Tau",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_1514",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_1514"
   },
   {
+    "imgSrc": "6543.jpg",
     "type": "pn",
     "catalogCode": "6543",
     "RA": "17 58.6",
@@ -1072,9 +1109,12 @@
     "objectClass": "3a",
     "size": "23\"x17\"",
     "mag": "8.1",
-    "constellation": "Dra"
+    "constellation": "Dra",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_6543",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_6543"
   },
   {
+    "imgSrc": "6826.jpg",
     "type": "pn",
     "catalogCode": "6826",
     "RA": "19 44.8",
@@ -1082,9 +1122,12 @@
     "objectClass": "3a",
     "size": "27\"x24\"",
     "mag": "8.8",
-    "constellation": "Cyg"
+    "constellation": "Cyg",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_6826",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_6826"
   },
   {
+    "imgSrc": "2371-2.jpg",
     "type": "pn",
     "catalogCode": "2371-2",
     "RA": "07 25.5",
@@ -1092,9 +1135,12 @@
     "objectClass": "3a+6",
     "size": "2.2x0.9",
     "mag": "11.3",
-    "constellation": "Gem"
+    "constellation": "Gem",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_2371-2",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_2371"
   },
   {
+    "imgSrc": "6781.jpg",
     "type": "pn",
     "catalogCode": "6781",
     "RA": "19 18.4",
@@ -1102,9 +1148,12 @@
     "objectClass": "3b",
     "size": "1.9x1.8",
     "mag": "11.4",
-    "constellation": "Aql"
+    "constellation": "Aql",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_6781",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_6781"
   },
   {
+    "imgSrc": "40.jpg",
     "type": "pn",
     "catalogCode": "40",
     "RA": "00 13.0",
@@ -1112,9 +1161,12 @@
     "objectClass": "3b",
     "size": "38\"x35\"",
     "mag": "12.4",
-    "constellation": "Cep"
+    "constellation": "Cep",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_40",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_40"
   },
   {
+    "imgSrc": "246.jpg",
     "type": "pn",
     "catalogCode": "246",
     "RA": "00 47.0",
@@ -1122,9 +1174,12 @@
     "objectClass": "3b",
     "size": "4.6x4.1",
     "mag": "10.9",
-    "constellation": "Cet"
+    "constellation": "Cet",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_246",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_246"
   },
   {
+    "imgSrc": "2392.jpg",
     "type": "pn",
     "catalogCode": "2392",
     "RA": "07 29.2",
@@ -1132,9 +1187,12 @@
     "objectClass": "3b",
     "size": "47\"x43\"",
     "mag": "9.2",
-    "constellation": "Gem"
+    "constellation": "Gem",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_2392",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_2392"
   },
   {
+    "imgSrc": "1535.jpg",
     "type": "pn",
     "catalogCode": "1535",
     "RA": "04 14.3",
@@ -1142,9 +1200,12 @@
     "objectClass": "4(2c)",
     "size": "48\"x42\"",
     "mag": "9.6",
-    "constellation": "Eri"
+    "constellation": "Eri",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_1535",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_1535"
   },
   {
+    "imgSrc": "3242.jpg",
     "type": "pn",
     "catalogCode": "3242",
     "RA": "10 24.8",
@@ -1152,9 +1213,12 @@
     "objectClass": "4(3b)",
     "size": "45\"x36\"",
     "mag": "7.8",
-    "constellation": "Hya"
+    "constellation": "Hya",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_3242",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_3242"
   },
   {
+    "imgSrc": "7009.jpg",
     "type": "pn",
     "catalogCode": "7009",
     "RA": "21 04.2",
@@ -1162,18 +1226,24 @@
     "objectClass": "4(6)",
     "size": "44\"x23\"",
     "mag": "8",
-    "constellation": "Aqr"
+    "constellation": "Aqr",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_7009",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_7009"
   },
   {
+    "imgSrc": "7026.jpg",
     "type": "pn",
     "catalogCode": "7026",
     "RA": "21 06.3",
     "Dec": "47 51",
     "size": "27\"x11\"",
     "mag": "10.9",
-    "constellation": "Cyg"
+    "constellation": "Cyg",
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_7026",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_7026"
   },
   {
+    "imgSrc": "7662.jpg",
     "type": "pn",
     "catalogCode": "7662",
     "RA": "23 25.9",
@@ -1181,7 +1251,7 @@
     "size": "32\"x28\"",
     "mag": "8.3",
     "constellation": "And",
-    "wikiLinkEn": "https://en.wikipedia.org/wiki/List_of_dark_nebulae",
-    "wikiLinkUa": "https://en.wikipedia.org/wiki/List_of_dark_nebulae"
+    "wikiLinkEn": "https://en.wikipedia.org/wiki/NGC_7662",
+    "wikiLinkUa": "https://uk.wikipedia.org/wiki/NGC_7662"
   }
 ]
